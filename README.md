@@ -24,7 +24,7 @@ A full-stack web app that release updated Covid-19 cases globally with map track
 
 
 
-## what I used to build it
+## what stack I used to build it (MERN)
 
 
 
