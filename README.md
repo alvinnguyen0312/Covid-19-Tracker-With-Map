@@ -45,7 +45,7 @@ A full-stack web app that release updated Covid-19 cases globally with map track
 
 
 ## Demo
-
+[Video](https://www.youtube.com/watch?v=2hEcMLjYLlM)
 
 
 ![Covid-19-App-Tracker](https://github.com/alvinnguyen0312/Covid-19-Tracker-With-Map/blob/master/covid-19-tracker-demo.gif)
