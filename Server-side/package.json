@@ -1,0 +1,19 @@
+{
+  "name": "covid-19-tracker-server",
+  "version": "1.0.0",
+  "description": "covid-19-tracker-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Alvin Ng",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.5.7",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2"
+  }
+}
